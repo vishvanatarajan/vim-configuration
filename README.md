@@ -2,11 +2,13 @@
 
 ## VIM folder directory structure
 
+```bash
 .vim/
  |--- autoload/
  |--- backup/
  |--- colors/
  |--- plugged/
+```
 
 ```bash
 mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
